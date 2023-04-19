@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Stefam
+- 🏫 I am currently a sophomore at Moscow Institute of Physics and Technologies, Department of General and Applied Physics. My major is The Theory of Fundamental Interactions and Quantum Gravity. However I am pretty like programming too
+- 🚲 I am currently learning numerical simulation technics with c++ and visualisation with python and ParaView
+- ⚡ Fun fact: initially I was studying C# backend and databases, but know I am thinking about doing data analytics for a living
+- 👯 In addition, I am looking to collaborate on 2D game development, espessialy I am thrilled with pixelart games. I am interested in Unity, Godot or self-written engines, but I am still learning
+- 📫 How to reach me: [telegram](https://t.me/m_ailuro) or <ailuro.sm@gmail.com>
+- 🐋 Finally, I like marine life and worldbuilding. And you?
 
 <!--
 **Ronningen/Ronningen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
