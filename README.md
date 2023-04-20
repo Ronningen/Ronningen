@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Stefam
+### Hi there 👋 My name is Stefan
 - 🏫 I am currently a sophomore at Moscow Institute of Physics and Technologies, Department of General and Applied Physics. My major is The Theory of Fundamental Interactions and Quantum Gravity. However I am pretty like programming too
 - 🚲 I am currently learning numerical simulation technics with c++ and visualisation with python and ParaView
 - ⚡ Fun fact: initially I was studying C# backend and databases, but know I am thinking about doing data analytics for a living
