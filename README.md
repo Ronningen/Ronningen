@@ -1,12 +1,11 @@
 ### Hi there 👋 My name is Stefan Maria Ailuro
-- 👾 I'm a AI reseacher at INSAIT
+- 👾 I'm a AI reseacher at INSAIT 
+- 📫 How to reach me: [telegram](https://t.me/m_ailuro) or <ailuro.sm@gmail.com>
+- 🐋 Finally, I like marine life and birdwatching. And you?
 <!--
 - 🌱 Initially I was studying C# backend and databases
 - 👯 In addition, I am looking to collaborate on 2D game development, espessialy I am thrilled with pixelart games. I am interested in Unity, Godot or self-written engines, but I am still learning
--->
-- 📫 How to reach me: [telegram](https://t.me/m_ailuro) or <ailuro.sm@gmail.com>
-- 🐋 Finally, I like marine life and birdwatching. And you?
-
+--> 
 <!--
 **Ronningen/Ronningen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
